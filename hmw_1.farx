@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2022-08-25T16:48:31.1334969+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo0LCJjb25kaXRpb24iOiJjb250YWlucyIsInZhbHVlIjoiaHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS91c2VyX2luZm9fMiIsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjp0cnVlLCJjYXNlSW5zZW5zaXRpdmVLZXkiOnRydWUsImlkIjowfQ==&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;%%eyJ0eXBlIjo1LCJjb25kaXRpb24iOiJyZXBsYWNlIiwia2V5IjoiIiwidmFsdWUiOiJcInBlcnNvblwiOiB7XHJcbiAgICAgICAgXCJ1X2FnZVwiOiAyMixcclxuICAgICAgICBcInVfbmFtZVwiOiBbXHJcbiAgICAgICAgICAgIFwiQXJpbmFcIixcclxuICAgICAgICAgICAgMTAwMCxcclxuICAgICAgICAgICAgMjJcclxuICAgICAgICBdLFxyXG4gICAgICAgIFwidV9zYWxhcnlfNV95ZWFyc1wiOiA0MjAwLjBcclxuICAgIH0sIiwiaWQiOiJhNHphN2g0NXY4OCIsImNhc2VJbnNlbnNpdGl2ZUtleSI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlVmFsdWUiOnRydWUsImZpbmQiOiJcInBlcnNvblwiOiB7ICAgICAgICAgXCJ1X2FnZVwiOiAyMiwgICAgICAgICBcInVfbmFtZVwiOiBbICAgICAgICAgICAgIFwiQXJpbmFcIiwgICAgICAgICAgICAgMTAwMCwgICAgICAgICAgICAgMjIgICAgICAgICBdLCAgICAgICAgIFwidV9zYWxhcnlfNV95ZWFyc1wiOiA0MjAwLjAgICAgIH0sIiwiZXh0cmFEYXRhIjp7ImVkaXRvckxhbmd1YWdlIjoieG1sIn19&quot;]" MaxMatchCount="1" Comment="1_6_4 [Copy]" Enabled="true" />
+  </State>
+</AutoResponder>
